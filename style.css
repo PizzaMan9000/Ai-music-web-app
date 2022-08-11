@@ -1,0 +1,23 @@
+body {
+    color: white;
+}
+
+#header {
+    width: 100%;
+}
+
+#note {
+    color: black;
+    font-weight: bold;
+}
+
+#song_name {
+    padding: 6px;
+    font-size: 25px;
+}
+
+canvas {
+    border: white solid 5px;
+    border-radius: 10px;
+    margin-top: 140px;
+}
